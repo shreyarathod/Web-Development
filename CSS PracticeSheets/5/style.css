@@ -1,0 +1,9 @@
+div{
+    height:100px;
+    width:100px;
+    background-image:url(v2osk-1Z2niiBPg5A-unsplash.jpg);
+    background-size: cover;
+    position:fixed;
+    right:0px;
+    top:100px;
+}

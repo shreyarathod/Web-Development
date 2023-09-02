@@ -1,0 +1,33 @@
+#navbar{
+    display:flex;
+    background-color:blueviolet;
+    justify-content: space-evenly;
+
+}
+a{
+    text-decoration: none;
+    color:aliceblue;
+    list-style-type: none;
+    
+}
+li{
+    list-style-type: none;
+}
+.outer{
+    height:500px;
+    width:500px;
+    background-color: aqua;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+}
+.inner{
+    height:100px;
+    width:100px;
+    background-color: blue ;
+}
+@media (min-width:300px){
+    .inner{
+        background-color: beige;
+    }
+}

@@ -1,0 +1,26 @@
+*{
+    padding:0px;
+    margin:0px;
+    
+}
+body{
+    background-color: aqua;
+}
+div{
+    height : 60px;
+    background-color : #0f1111;
+    border : 5px solid white;
+}
+a{
+    color:white;
+    margin-right:200px;
+    text-decoration: none;
+}
+#logo{
+    color:#f08804;
+    font-size:25px;
+}
+button{
+    background-color:#f08804;
+    color:white;
+}

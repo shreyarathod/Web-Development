@@ -1,0 +1,47 @@
+
+*{
+    padding:0px;
+    margin:0px;
+    
+}
+
+#navbar{
+    height : 60px;
+    background-color : #0f1111;
+    border : 5px solid white;
+}
+a{
+    color:white;
+    margin-right:200px;
+    text-decoration: none;
+}
+#logo{
+    color:#f08804;
+    font-size:25px;
+}
+button{
+    background-color:#f08804;
+    color:white;
+}
+.contentarea{
+    height:100px;
+    width:100px;
+    border:3px solid magenta;
+}
+#box1{
+    background-color: rgb(250, 235, 215,0.5);
+}
+#box2{
+    background-color: rgb(0, 255, 255,0.5);
+}
+#box3{
+    background-color: rgb(120, 212, 44,0.5);
+}
+main{
+    height:800px
+}
+footer{
+    background-color: #0f1111;
+    border : 5px solid white;
+    color:white;
+}

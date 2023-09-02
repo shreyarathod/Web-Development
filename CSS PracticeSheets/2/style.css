@@ -1,0 +1,15 @@
+#heading1{
+    text-align : center;
+    text-transform : capitalize;
+}
+ 
+body{
+    font-family : 'Times New Roman';
+}
+/*Universal Selector (*) can also be used*/
+#outer{
+    font-size : 25px;
+}
+#inner{
+    font-size : 10px;
+}
